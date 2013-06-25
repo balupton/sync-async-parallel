@@ -1,0 +1,16 @@
+{
+	"name": "safeps",
+	"version": "2.2.4",
+	"description": "Work with processes safely and easily with Node.js",
+	"homepage": "https://github.com/bevry/safefs",
+	"author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+	"maintainers": [
+		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+	],
+	"contributors": [
+		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+	],
+	"dependencies": {
+		"taskgroup": "~3.1.2"
+	}
+}
